@@ -1,9 +1,5 @@
 # Space Mission Analytics Dashboard — A Complete Description
 
-App Link: https://jvjyfzty3kvfhbh3jgglzb.streamlit.app/
-
----
-
 ## Introduction
 
 The Space Mission Analytics Dashboard is a fully interactive, browser-based data visualization web application built with Python and Streamlit. Its purpose is to transform a raw dataset of 500 simulated space missions into a rich, explorable environment where patterns, correlations, and physical simulations become tangible and meaningful. Instead of asking users to parse through rows of numbers in a spreadsheet, the app converts every data point into something visual, intuitive, and informative. Whether you are a student exploring the relationship between payload mass and fuel consumption, an educator illustrating how calculus underpins rocket physics, or an aerospace enthusiast experimenting with launch parameters to watch a rocket climb toward the edge of the atmosphere, this app has something to offer.
