@@ -160,9 +160,3 @@ fig5 = px.scatter(
 )
 
 st.plotly_chart(fig5, use_container_width=True)
-
-# -----------------------------
-# FOOTER
-# -----------------------------
-st.markdown("---")
-st.write("Dashboard built using Streamlit, Plotly, Pandas, and Seaborn.")
