@@ -147,6 +147,8 @@ The app will open in your browser at `http://localhost:8501`.
 
 Push the repository to GitHub (ensuring `app.py`, `space_missions_dataset.csv`, and `requirements.txt` are all present), then connect the repository in the Streamlit Cloud dashboard. The app will be live at a public URL within minutes — no build step or configuration required.
 
+URL for the app: https://idai104-2505456--prahaansanghvi-hjxpre9kbflw4wuz2yy3m9.streamlit.app/
+
 ---
 
 ## Educational Value
